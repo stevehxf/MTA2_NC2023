@@ -1,4 +1,4 @@
-# GINS_NCB2023
+# GINS_NC2023
 
 ###### Author: Wei Gu<sup>1,2,4</sup>, Xiaofeng Huang<sup>1,2,4</sup>, Qiao Zhou<sup>1,3,4</sup>
 ###### <sup>1</sup> Division of Regenerative Medicine & Ansary Stem Cell Institute, Department of Medicine, Weill Cornell Medicine, 1300 York Avenue, New York, NY 10065, USA 
